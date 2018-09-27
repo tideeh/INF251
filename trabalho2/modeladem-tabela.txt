@@ -63,4 +63,4 @@ P0 = ~E2 & ~E1   // 3 operadores
 P1 = ~E1 & ( ( ~E0 & ~A ) | ( ~E2 & E0 ) )   // 8 operadores
 P2 = ~E2 & E1 & E0   // 3 operadores
 
-total de operadores = 24
+total de operadores = 30
